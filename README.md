@@ -25,8 +25,8 @@ A modern, powerful GUI tool for managing and injecting Frida scripts, **enhanced
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/oliverstankiewicz/FridaGUI.git
-   cd FridaGUI
+   git clone https://github.com/bananashipsBBQ/bananida_GUI.git
+   cd bananida_GUI
    ```
 
 2. Install dependencies:
@@ -43,7 +43,7 @@ A modern, powerful GUI tool for managing and injecting Frida scripts, **enhanced
 
 ## 📑 Project Structure
 ```
-FridaGUI/
+bananida_GUI/
 ├── src/
 │   ├── gui/
 │   │   ├── widgets/
@@ -60,8 +60,6 @@ FridaGUI/
 │   │   └── themes.py
 │   └── main.py
 ├── requirements.txt
-├── requirements-dev.txt
-├── LICENSE
 └── README.md
 ```
 

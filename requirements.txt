@@ -1,0 +1,7 @@
+frida
+PyQt5
+qtawesome
+requests
+beautifulsoup4
+psutil
+aiohttp
