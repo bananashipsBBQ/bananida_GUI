@@ -38,7 +38,8 @@ A modern, powerful GUI tool for managing and injecting Frida scripts, **enhanced
    ```bash
    python src/main.py
    ```
-
+4. Interface display
+![alt text](nano.png)
 ---
 
 ## 📑 Project Structure
